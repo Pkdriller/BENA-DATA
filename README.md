@@ -1,1 +1,1 @@
-# Bena database my NExus bots
+# Bena database  for my NExus bots
